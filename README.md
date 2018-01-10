@@ -12,4 +12,4 @@ Green node touches increment the score label by one. Red node touches reset the 
 
 There is currently no game menu like you would expect from a fully featured App Store game, but I hope to implement one in the future!
 
-![GIF not loaded](https://github.com/Oblivion00/Node-Game-iPhone-App/blob/master/NodeGame.gif)
+![GIF not loaded](https://github.com/MichaelZetune/Node-Game-iPhone-App/blob/master/NodeGame.gif)
