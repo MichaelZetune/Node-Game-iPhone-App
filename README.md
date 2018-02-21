@@ -1,6 +1,6 @@
 # Node Game
 
-Now that I have some Swift and Xcode down, I wanted to try Apple's well-known API for game creation, SpriteKit. This is a very surface level program to just test what SpriteKit can do.
+Now that I have some Swift and Xcode down, I wanted to try Apple's well-known API for game creation, SpriteKit. This is a very surface level program to test what SpriteKit can do.
 
 Created as a project for Lambda Alpha Nu, a professional technology fraternity at UT Austin.
 
